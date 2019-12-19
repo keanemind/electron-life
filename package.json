@@ -1,0 +1,11 @@
+{
+  "name": "electron-life",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life as an Electron application.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
